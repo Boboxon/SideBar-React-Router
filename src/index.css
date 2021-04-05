@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css?family=Barlow+Condensed");
+body {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+/* The sidebar menu */
+.sidebar {
+  height: 100% !important;
+  display: flex;
+  flex-direction: column;
+  background-color: #181818;
+  position: fixed;
+  width: 200px;
+  display: flex;
+}
+
+.sidebar a {
+  padding-left: 20px;
+  position: relative;
+  top: 100px;
+  font-size: 15px;
+  text-decoration: none;
+  cursor: pointer;
+  color: azure;
+  margin: 10px;
+  align-items: center;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.sidebar a:hover {
+  color: red;
+}
+
+.icon-1 {
+  margin-right: 5px;
+  margin-top: 5px;
+}
+.icon-1:hover {
+  color: red;
+}
+
+.item {
+  background-color: rgba(255, 255, 0, 0.768);
+  text-decoration: none;
+  color: black;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.text {
+  align-items: center;
+  justify-content: center;
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+.dash {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+.flow {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+.static {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+.num {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+.second-nav {
+  margin-top: 100px;
+  background-color: red;
+  height: 100vh;
+  padding-left: 20px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #282828;
+}
+
+.icon-2 {
+  margin-top: 10px;
+  padding-right: 5px;
+}
