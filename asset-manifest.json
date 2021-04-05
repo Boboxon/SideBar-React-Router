@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SideBar-React-Router/static/css/main.e139465f.chunk.css",
+    "main.js": "/SideBar-React-Router/static/js/main.ce196b17.chunk.js",
+    "main.js.map": "/SideBar-React-Router/static/js/main.ce196b17.chunk.js.map",
+    "runtime-main.js": "/SideBar-React-Router/static/js/runtime-main.3bb758b9.js",
+    "runtime-main.js.map": "/SideBar-React-Router/static/js/runtime-main.3bb758b9.js.map",
+    "static/js/2.5ef18336.chunk.js": "/SideBar-React-Router/static/js/2.5ef18336.chunk.js",
+    "static/js/2.5ef18336.chunk.js.map": "/SideBar-React-Router/static/js/2.5ef18336.chunk.js.map",
+    "static/js/3.24a4f0b0.chunk.js": "/SideBar-React-Router/static/js/3.24a4f0b0.chunk.js",
+    "static/js/3.24a4f0b0.chunk.js.map": "/SideBar-React-Router/static/js/3.24a4f0b0.chunk.js.map",
+    "index.html": "/SideBar-React-Router/index.html",
+    "static/css/main.e139465f.chunk.css.map": "/SideBar-React-Router/static/css/main.e139465f.chunk.css.map",
+    "static/js/2.5ef18336.chunk.js.LICENSE.txt": "/SideBar-React-Router/static/js/2.5ef18336.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bb758b9.js",
+    "static/js/2.5ef18336.chunk.js",
+    "static/css/main.e139465f.chunk.css",
+    "static/js/main.ce196b17.chunk.js"
+  ]
+}
